@@ -183,7 +183,7 @@ body {
 
 body {
   margin:.75em;
-  background: url("https://cdn.rawgit.com/mrsrose/pages-css/9aea54ec/pink1.jpg");
+  background: url("https://cdn.rawgit.com/mrsrose/pages-css/6ee6c798/pink.jpg");
   color: #000;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -388,7 +388,7 @@ audio:not([controls]) {
   display: none; }
 
 html {
-  background: url("http://pinktemplate.freetzi.com/images/pink.jpg");
+  background: url("https://cdn.rawgit.com/mrsrose/pages-css/6ee6c798/pink.jpg");
   color: #000;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%; }
